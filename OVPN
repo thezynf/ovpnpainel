@@ -2,7 +2,7 @@
 apt-get update -y
 apt-get upgrade -y 
 apt-get install git wget nano speedtest-cli squid3 -y
-wget wget https://raw.githubusercontent.com/dhtm15/script/master/ovinstall
+wget https://raw.githubusercontent.com/dhtm15/script/master/ovinstall
 chmod +x ovinstall
 ./ovinstall
 rm ovinstall
